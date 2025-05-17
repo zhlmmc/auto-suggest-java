@@ -119,6 +119,4 @@ public class Trie {
 
         return d[m][n];
     }
-
-
 }
